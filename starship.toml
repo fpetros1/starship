@@ -1,4 +1,4 @@
-format = "$directory$character"
+format = "$directory$git_branch$git_status"
 
 [directory]
 truncation_length = 1

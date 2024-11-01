@@ -1,0 +1,5 @@
+format = "$directory$character"
+
+[directory]
+truncation_length = 1
+format = "[$read_only]($read_only_style)[$path]($style) "
